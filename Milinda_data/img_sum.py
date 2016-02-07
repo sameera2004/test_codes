@@ -127,7 +127,4 @@ if __name__ == "__main__":
 
     sum_img, avg_img = sum_img(np.asarray(img_stack))
 
-
-
-
-
+ 
